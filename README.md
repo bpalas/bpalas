@@ -2,8 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Palacios-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminpalacioss/)](https://www.linkedin.com/in/benjaminpalacioss/)
 
 
-🌱 I’m currently learning about Data Science
-🔭 I’m currently working on Research
+- 🌱 I’m currently learning about Data Science
+- 🔭 I’m currently working on Research
 <!--
 **bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

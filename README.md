@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning about Data Science  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 - 🔭 I’m currently working on Research
-- 
+
 - 📫 How to reach me: bpalacios@alumnos.uai.cl
 <!--
 **bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

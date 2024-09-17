@@ -11,7 +11,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bpalas&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bpalas&theme=tokyonight)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bpalas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

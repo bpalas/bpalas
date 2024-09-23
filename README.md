@@ -9,9 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight)
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=bpalas&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bpalas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

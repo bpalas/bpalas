@@ -5,12 +5,6 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight)
 
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bpalas&show_icons=true&theme=tokyonight)
-
-
-
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=bpalas&theme=tokyonight)
-
 
 
 <!--

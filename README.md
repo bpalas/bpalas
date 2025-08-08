@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi 
 [![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Palacios-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminpalacioss/)](https://www.linkedin.com/in/benjaminpalacioss/)
 [![Gmail Badge](https://img.shields.io/badge/-bpalacios@alumnos.uai.cl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bpalacios@alumnos.uai.cl)](mailto:bpalacios@alumnos.uai.cl)
 
+
+<!--
+**bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #
 
 ### GitHub Stats
@@ -9,9 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight)
 
 🌱 I’m currently learning Complex Systems Engineer
-
-<!--
-**bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

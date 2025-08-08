@@ -2,7 +2,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Benjamin%20Palacios-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminpalacioss/)](https://www.linkedin.com/in/benjaminpalacioss/)
 [![Gmail Badge](https://img.shields.io/badge/-bpalacios@alumnos.uai.cl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bpalacios@alumnos.uai.cl)](mailto:bpalacios@alumnos.uai.cl)
 
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight&exclude_lang=Jupyter%20Notebook))
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpalas&theme=tokyonight)
+
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bpalas&show_icons=true&theme=tokyonight)
+
+
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=bpalas&theme=tokyonight)
+
+
 
 <!--
 **bpalas/bpalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

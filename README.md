@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjam%C3%ADn%20Palacios-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminpalacioss/)
 [![Gmail](https://img.shields.io/badge/Email-benja.pala01@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:benja.pala01@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-bpalacios-FFD21E?style=flat)](https://huggingface.co/bpalacios)
 
 **Software Engineer @ Gauss Control · Complex Systems PhD Student @ Universidad Adolfo Ibáñez** 🇨🇱
 
